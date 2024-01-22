@@ -2,6 +2,7 @@
 
 ## Title: PvPReadyTimer
 ## Notes: Adds a timer to the PvP ready dialog.
+## IconTexture: Interface\AddOns\PvPReadyTimer\Logo
 ## Author: Eyal Alon
 
 PvPReadyTimer.lua
