@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 110005
 
 ## Title: PvPReadyTimer
 ## Notes: Adds a timer to the PvP ready dialog.
